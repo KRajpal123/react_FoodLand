@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_FoodLand/static/css/main.0646e0a3.css",
+    "main.js": "/react_FoodLand/static/js/main.cbcb86a6.js",
+    "static/js/787.bbe01249.chunk.js": "/react_FoodLand/static/js/787.bbe01249.chunk.js",
+    "static/media/Foodland-Logo-Apples.jpg": "/react_FoodLand/static/media/Foodland-Logo-Apples.bb12329bac959b95f5c5.jpg",
+    "static/media/slick.svg": "/react_FoodLand/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react_FoodLand/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react_FoodLand/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react_FoodLand/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react_FoodLand/index.html",
+    "main.0646e0a3.css.map": "/react_FoodLand/static/css/main.0646e0a3.css.map",
+    "main.cbcb86a6.js.map": "/react_FoodLand/static/js/main.cbcb86a6.js.map",
+    "787.bbe01249.chunk.js.map": "/react_FoodLand/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0646e0a3.css",
+    "static/js/main.cbcb86a6.js"
+  ]
+}
