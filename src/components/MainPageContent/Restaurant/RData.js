@@ -1,0 +1,88 @@
+const RData = [
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/0/93970/ff2a033de7e1e643935b8899a1e2b42e_o2_featured_v2.jpg?output-format=webp",
+        title:"Charminar Biryani",
+        subtitle:"North indian,south indian",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/9/93769/24495bb6d6300352f150f6ea95d1669c_o2_featured_v2.jpg?output-format=webp",
+        title:"ShahGhouze",
+        subtitle:"North indian,south indian",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/4/19550124/99183c0f3ee9cadbb48fbedcb8b80737_o2_featured_v2.jpg?output-format=webp",
+        title:"Green Bawarchi",
+        subtitle:"North indian,south indian",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/4/90384/c8e3d85b773066868ec333d6f17782cb_o2_featured_v2.jpg?output-format=webp",
+        title:"Bawarchi",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/0/20065530/19b6ebdf68c5e78c64c9c3abdc67ad89_o2_featured_v2.jpg?output-format=webp",
+        title:"Paradise",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/1/93681/42e6dc7dd4d466b1d4a1fc310cc7f84b_o2_featured_v2.jpg?output-format=webp",
+        title:"Chonnes Hotel",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/3/90943/ae983bd7dd3098d375f3d4bb15ff8677_o2_featured_v2.jpg?output-format=webp",
+        title:"Swagath Hotel",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/9/18774129/3ca1d7ed2d900793bc47b29c7681e982_o2_featured_v2.jpg",
+        title:"Pizza Hut",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/1/90171/16f70d61905d20a1959379404db04c14_o2_featured_v2.jpg",
+        title:"Varalakshmi Tiffins",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/3/19129303/690593fd1924d2ea471ded9e2807ec8e_o2_featured_v2.jpg",
+        title:"Chutney",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/6/18362366/5b31b6d8278b119da91c833cb7e4143b_o2_featured_v2.png",
+        title:"Ambika Tiffin Center",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+    {
+        id:1,
+        img: "https://b.zmtcdn.com/data/pictures/chains/8/18138658/1edc341a1cb0b7bd57c812b93e6ce333_o2_featured_v2.jpg",
+        title:"Burger King",
+        subtitle:"North indian,south indian,chinnese",
+        price:"250",
+    },
+];
+
+export default RData
